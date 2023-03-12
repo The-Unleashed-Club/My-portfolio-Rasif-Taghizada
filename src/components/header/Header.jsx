@@ -8,12 +8,12 @@ const Header = () => {
     <header id="home">
       <div className="container header__container">
         <h5>Hello I'm</h5>
-        <h1>Rasif Taghizade</h1>
-        <h5 className="text-light">Front-end Developer</h5>
+        <h1>Mayank kumar</h1>
+        <h5 className="text-light">MERN Stack Developer</h5>
         <CTA />
-        <a href="#contact" className="scroll__down">
+        {/* <a href="#contact" className="scroll__down">
           Scroll Down
-        </a>
+        </a> */}
         <HeaderSocials />
       </div>
     </header>
